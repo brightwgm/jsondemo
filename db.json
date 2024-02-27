@@ -5,8 +5,7 @@
       "title": "hello"
     }
   ],
-
-  "api" : [
+  "api": [
     {
       "v1": {
         "login": {
